@@ -14,7 +14,7 @@ body {
 
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 5.5rem;
     margin-bottom: 2rem;
     text-align: center;
     color: #2c3e50;
@@ -22,7 +22,7 @@ h1 {
 
 
 a {
-   
+    font-size: 2.0rem;
    width: 250px;
    text-align: center;
     text-decoration: none;
